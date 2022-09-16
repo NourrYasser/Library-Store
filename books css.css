@@ -1,0 +1,51 @@
+* {
+    box-sizing:border-box;
+    color: rgb(245, 185, 65);
+    text-align:left ;
+    text-transform: uppercase;
+    text-indent: 3px;
+    text-decoration:none; 
+    font-style: bold ;
+    margin-left: 6px;
+    margin-top: 0px;
+    backdrop-filter: blur(3px);
+    
+}
+    
+
+header{
+    padding: 10px;
+    background-color: rgb(139, 58, 4); 
+    font-size:x-large; 
+    background-color: rgb(139, 58, 4);
+    background-color: rgba(139, 58, 4, 0.5);
+
+}
+
+
+header :hover{
+
+    background-color:rgb(54, 21, 0);
+    zoom: 115%;
+
+
+}
+
+
+#available{
+    background-color:rgb(54, 21, 0);
+    font-size: 30px;
+}
+
+
+.img{
+  
+  display: flex;
+  flex-wrap:wrap;
+  
+}
+#Images{
+    margin: 10px;
+    padding: 10px;
+    flex: 30%;
+}

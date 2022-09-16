@@ -1,0 +1,79 @@
+*{
+        box-sizing:content-box;
+        color: rgb(245, 185, 65);
+        text-align:left ;
+        text-indent: 3px;
+        text-decoration:none;
+        font-style: bold ;
+        margin-right: 8px;
+        margin-top:0px ;
+        
+        
+}
+        
+div header {
+        padding: 10px;
+        background-color: rgb(139, 58, 4); 
+        font-size:x-large;
+        box-shadow:  rgb(245, 185, 65);
+        background-color: rgb(139, 58, 4);
+        background-color: rgba(139, 58, 4, 0.5);
+        text-transform: uppercase;
+}
+
+div header :hover{
+
+    background-color:rgb(54, 21, 0);
+    zoom: 115%;
+    
+
+}
+
+#home{
+    background-color:rgb(54, 21, 0);
+    font-size: 30px;
+}
+
+
+#content{
+    margin-left: 550px;
+    margin-top: 130px;
+    box-sizing: content-box;
+    box-shadow: 5px;
+    font-weight: bold;
+    font-size: 45px;
+    width:510px;
+    height:200px;
+    justify-content:center;
+    text-align: center;
+    line-height: 90px;
+    text-shadow: 4px 4px 8px black;
+    box-shadow: 10px 10px 5px black;
+    border-radius: 7px;
+    background-color: rgba(139, 58, 4, 0.5);
+    padding: 5px;
+}
+
+#start{
+    margin-left: 670px;
+    margin-top: 30px;
+    box-sizing: content-box;
+    box-shadow: 5px;
+    font-weight: bold;
+    font-size: 40px;
+    width:280px;
+    height:90px;
+    justify-content:center;
+    text-align: center;
+    line-height: 90px;
+    text-shadow: 4px 4px 8px black;
+    border-radius: 15px;
+    box-shadow: 10px 10px 5px black;
+    background-color: rgba(139, 58, 4, 0.5);
+    padding: 5px;
+}
+
+#start:hover{
+    background-color:rgb(93, 36, 0);
+    
+}
